@@ -1,0 +1,1 @@
+{"name":"must-union-movie-night","private":true,"version":"1.0.0","type":"module","scripts":{"build":"esbuild src/main.tsx --bundle --minify --jsx=automatic --define:process.env.NODE_ENV=\"production\" --outfile=app.js"},"dependencies":{"react":"19.2.6","react-dom":"19.2.6"},"devDependencies":{"esbuild":"0.27.3"}}
